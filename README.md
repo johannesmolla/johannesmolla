@@ -4,7 +4,7 @@
 
 ### 📫 How to reach me.
 
-- [Email](mail-to:yohannes__molla@outlook.com)
+- [Email](mailto:yohannes__molla@outlook.com)
 
 - [Telegram](https://t.me/johannesmolla)
 
