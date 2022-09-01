@@ -1,4 +1,4 @@
-### Hi, I'm Yohannes.
+### Hi 😊, I'm Yohannes.
 
 - Currently I'm learning C programming.
 
