@@ -1,6 +1,4 @@
-### Hi, I'm Yohannes.
-
-- Currently I'm learning C programming.
+### Hi, I'm Yohannes From Ethiopia 🇪🇹
 
 ### 📫 How to reach me.
 
